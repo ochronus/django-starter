@@ -18,3 +18,5 @@ media
 requirements.txt
 
 *.sqlite
+
+node_modules
